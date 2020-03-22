@@ -1,0 +1,44 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding" defaultCharsetForPropertiesFiles="UTF-8">
+    <file url="file://$PROJECT_DIR$/../../2019_JavaEE(itheima)/Java课件/6.阶段六-畅购商城/chapter06 数据同步解决方案-canal&amp;rabbitMQ/代码/changgou_parent/starter-canal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_canal" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_common" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_common_db" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_eureka" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service/PhilJ_service_goods" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service/PhilJ_service_search" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service/changgou_service_business" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service/changgou_service_config" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service/changgou_service_consume" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service/changgou_service_file" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service/changgou_service_order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service/changgou_service_page" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service/changgou_service_pay" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service/changgou_service_seckill" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service/changgou_service_system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service/changgou_service_user" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service_api/PhilJ_service_goods_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service_api/PhilJ_service_search_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service_api/changgou_service_business_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service_api/changgou_service_config_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service_api/changgou_service_order_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service_api/changgou_service_pay_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service_api/changgou_service_seckill_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service_api/changgou_service_system_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/PhilJ_service_api/changgou_service_user_api" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou-user-oauth" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_common_fescar" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_gateway" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_gateway/changgou_gateway_system" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_gateway/changgou_gateway_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_task" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_web" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_web/changgou_web_order" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/changgou_web/changgou_web_seckill" charset="UTF-8" />
+    <file url="PROJECT" charset="UTF-8" />
+  </component>
+</project>

@@ -1,0 +1,15 @@
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/pojo/Album.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/pojo/CategoryBrand.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/pojo/Spu.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/pojo/Template.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/pojo/Para.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/pojo/Spec.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/pojo/Log.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/feign/CategoryFeign.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/pojo/Sku.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/feign/SkuFeign.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/pojo/Goods.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/feign/SpuFeign.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/pojo/Brand.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/pojo/Category.java
+/Users/philj/Desktop/GitHub/PhilJ_parent/PhilJ_service_api/PhilJ_service_goods_api/src/main/java/com/PhilJ/goods/pojo/Pref.java

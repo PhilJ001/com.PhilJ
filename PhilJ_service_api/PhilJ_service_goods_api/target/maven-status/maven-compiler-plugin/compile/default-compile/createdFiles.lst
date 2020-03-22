@@ -1,0 +1,15 @@
+com/PhilJ/goods/pojo/Goods.class
+com/PhilJ/goods/pojo/Category.class
+com/PhilJ/goods/pojo/Sku.class
+com/PhilJ/goods/feign/CategoryFeign.class
+com/PhilJ/goods/pojo/Template.class
+com/PhilJ/goods/feign/SpuFeign.class
+com/PhilJ/goods/pojo/Pref.class
+com/PhilJ/goods/pojo/Album.class
+com/PhilJ/goods/pojo/Para.class
+com/PhilJ/goods/pojo/Spu.class
+com/PhilJ/goods/feign/SkuFeign.class
+com/PhilJ/goods/pojo/Spec.class
+com/PhilJ/goods/pojo/CategoryBrand.class
+com/PhilJ/goods/pojo/Log.class
+com/PhilJ/goods/pojo/Brand.class
